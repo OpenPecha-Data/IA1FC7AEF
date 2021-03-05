@@ -1,15 +1,16 @@
-id: opecha:P006966
+id: P006966
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS20275
   title: མཚོ་ལྷོ་བོད་རིགས་རང་སྐྱོང་ཁུལ་གྱི་རི་ཆུའི་རིག་གནས།
-  volume:
+  author: ''
+  volumes:
     fb6ee8a3859e4d2693d5a68d33d33511:
       image_group_id: I8LS20277
       title: Volume 1 of mtsho lho bod rigs rang skyong khul gyi ri chu'i rig gnas/
       volume_number: 1
       total_pages: 776
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: མཚོ་ལྷོ་བོད་རིགས་རང་སྐྱོང་ཁུལ་གྱི་རི་ཆུའི་རིག་གནས།
   author: ''
